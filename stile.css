@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
+body{
+    background: linear-gradient(#b8a0e3,#f3b5bf,#36ebeb,);
+}
+
+li{
+    font-family: Caveat;
+}
